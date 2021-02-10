@@ -32,9 +32,9 @@ from nltk.stem import WordNetLemmatizer
 import spacy
 from spacy import displacy
 from collections import Counter
-import hu_core_ud_lg
+#import hu_core_ud_lg
 
-nlp = hu_core_ud_lg.load()
+#nlp = hu_core_ud_lg.load()
 
 from gensim import corpora
 from gensim import models
